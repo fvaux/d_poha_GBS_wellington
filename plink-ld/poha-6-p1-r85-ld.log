@@ -1,0 +1,30 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --allow-extra-chr
+  --file poha-6-p1-r85.plink
+  --ld-window-r2 0.8
+  --out poha-6-p1-r85-ld
+  --r2
+
+Hostname: wbn096
+Working directory: /scale_wlg_nobackup/filesets/nobackup/uoo02915/PLINK
+Start time: Wed Oct 28 11:02:30 2020
+
+Random number seed: 1603836150
+128824 MB RAM detected; reserving 64412 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (5206 variants, 135 people).
+--file: poha-6-p1-r85-ld-temporary.bed + poha-6-p1-r85-ld-temporary.bim +
+poha-6-p1-r85-ld-temporary.fam written.
+5206 variants loaded from .bim file.
+135 people (0 males, 0 females, 135 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to poha-6-p1-r85-ld.nosex .
+Using up to 71 threads (change this with --threads).
+Before main variant filters, 135 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.931718.
+5206 variants and 135 people pass filters and QC.
+Note: No phenotypes present.
+--r2 to poha-6-p1-r85-ld.ld ... done.
+
+End time: Wed Oct 28 11:02:30 2020
