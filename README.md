@@ -22,7 +22,7 @@ Shell file with commands and the recoded VCF files used to estimate low coverage
 R files for running loci filtering (e.g. loci coverage depth outliers) and population genetic analyses (e.g. adegenet, LEA). I recommmend viewing original source GitHub pages and tutorials noted in each R file credits. Includes example R project and geno files for LEA analyses.
 
 # Sampling, and genotype and loci fasta files
-Supplementary tables, figures, methods and results (Appendix S1), full sample details (Appendix S2), COI sequences (Appendix S3), GBS files (loci consensus sequences, genotype files, phylogenetic alignments, trees) are available on DataDryad: 
+Supplementary tables, figures, methods and results (Appendix S1), full sample details (Appendix S2), COI sequences (Appendix S3), GBS files (loci consensus sequences, genotype files, phylogenetic alignments, trees) are available on DataDryad: https://doi.org/10.5061/dryad.v41ns1rw6 
 
 # Demultiplexed reads
 Demultiplexed forward and reverse DNA sequence reads for the southern bull-kelp sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA683976, http://www.ncbi.nlm.nih.gov/bioproject/683976
