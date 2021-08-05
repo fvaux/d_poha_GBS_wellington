@@ -25,7 +25,7 @@ R files for running loci filtering (e.g. loci coverage depth outliers) and popul
 Supplementary tables, figures, methods and results (Appendix S1), full sample details (Appendix S2), COI sequences (Appendix S3), GBS files (loci consensus sequences, genotype files, phylogenetic alignments, trees) are available on DataDryad: https://doi.org/10.5061/dryad.v41ns1rw6 
 
 # Demultiplexed reads
-Demultiplexed forward and reverse DNA sequence reads for the southern bull-kelp sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA683976, http://www.ncbi.nlm.nih.gov/bioproject/683976
+Demultiplexed forward and reverse DNA sequence reads for the southern bull kelp sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA683976, http://www.ncbi.nlm.nih.gov/bioproject/683976
 
 # Raw Illumina reads
 Available on request, and we're working to archive all southern bull-kelp raw reads on NCBI in the near future.
